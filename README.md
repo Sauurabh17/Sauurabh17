@@ -87,16 +87,6 @@ Analyzed customer behavior and purchasing patterns.
 <img src="https://streak-stats.demolab.com?user=Sauurabh17&theme=tokyonight"/>
 </p>
 
----
-
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sauurabh17&theme=algolia&column=4"/>
-</p>
-
----
-
 # Contribution Graph
 
 <p align="center">
@@ -111,6 +101,7 @@ learning:
   - Power BI
   - SQL
   - Python
+  - Excel
 
 building:
   - Analytics Dashboards
