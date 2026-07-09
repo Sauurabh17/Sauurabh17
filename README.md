@@ -1,30 +1,138 @@
-## Hi there 👋
-# 💫 About Me:
-Data Analyst | Data Science | ML<br>Python | Power BI | SQL | Excel 
+# Hi, I'm Saurabh Bagul 👋
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Saurabh%20Bagul&fontColor=ffffff&fontSize=45"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+Excel;Always+Learning+New+Technologies"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Sauurabh17"><img src="https://img.shields.io/badge/GitHub-Sauurabh17-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://linkedin.com/in/saurabh-bagul-9343b6218"><img src="https://img.shields.io/badge/LinkedIn-Saurabh_Bagul-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.hackerrank.com/saurabhbagul028"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/></a>
+</p>
+
+---
+
+# About Me
+
+- 📊 Data Analytics Enthusiast
+- 📈 Building interactive Power BI dashboards
+- 🐍 Learning Python for analytics and automation
+- 🗄️ Skilled in SQL, Excel and Power BI
+- 🤝 Open to internships and entry-level Data Analyst roles
+
+---
+
+# Tech Stack
+
+### Languages
+![Python](https://skillicons.dev/icons?i=python)
+
+### Databases
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+Power BI • Excel • SQL
+
+---
+
+# AI / Data Analytics
+
+| Domain | Level | Details |
+|---|---|---|
+| Power BI | Advanced | Interactive dashboards |
+| SQL | Intermediate | Queries & analysis |
+| Python | Intermediate | Data analysis |
+| Excel | Advanced | Dashboards & reporting |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>📊 PhonePe Transaction Dashboard</b></summary>
+
+Interactive Power BI dashboard for transaction analysis.
+
+**Tech:** Power BI, SQL, Excel
+
+</details>
+
+<details>
+<summary><b>🛍 Consumer Behaviour Analysis</b></summary>
+
+Analyzed customer behavior and purchasing patterns.
+
+**Tech:** Data Analysis, Excel, Power BI
+
+</details>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sauurabh17&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sauurabh17&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Sauurabh17&theme=tokyonight"/>
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sauurabh17&theme=algolia&column=4"/>
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sauurabh17&theme=tokyo-night"/>
+</p>
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saurabhbagul028@gmail.com) 
+# Current Focus
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sauurabh17&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sauurabh17&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sauurabh17&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Sauurabh17/Sauurabh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+learning:
+  - Power BI
+  - SQL
+  - Python
 
-Here are some ideas to get you started:
+building:
+  - Analytics Dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+exploring:
+  - Data Engineering
+  - AI
+
+open_to:
+  - Internships
+  - Entry Level Data Analyst Roles
+
+# Connect
+
+- GitHub: https://github.com/Sauurabh17
+- LinkedIn: https://linkedin.com/in/saurabh-bagul-9343b6218
+- HackerRank: https://www.hackerrank.com/saurabhbagul028
+
+
+> "Turning data into meaningful insights, one dashboard at a time."
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
+</p>
+
