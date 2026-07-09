@@ -39,7 +39,7 @@
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
-Power BI • Excel • SQL
+Power BI • Excel • SQL • HTML • CSS
 
 ---
 
